@@ -1,0 +1,22 @@
+Number of people taking SAT:
+Class of 2018:
+https://newsroom.collegeboard.org/more-2-million-students-class-2018-took-sat-highest-ever
+
+Class of 2019:
+https://newsroom.collegeboard.org/over-22-million-students-class-2019-took-sat-largest-group-ever
+
+Class of 2020:
+https://newsroom.collegeboard.org/nearly-22-million-students-class-2020-took-sat-least-once
+
+Class of 2021:
+https://newsroom.collegeboard.org/sat-program-results-capture-impact-of-covid-on-class-of-2021
+
+
+SAT changing to digital version
+https://blog.collegeboard.org/January-2021-sat-subject-test-and-essay-faq
+
+College Board drops SAT's optional essay and subject tests to 'reduce demands on students'
+https://www.nbcnews.com/news/education/college-board-drops-sat-s-optional-essay-subject-tests-reduce-n1254694
+
+Histogram Reference
+https://dev.to/thalesbruno/subplotting-with-matplotlib-and-seaborn-5ei8
